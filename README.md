@@ -1,6 +1,6 @@
 # Scientific-Calculator-DE10-Lite
 
-Video Demonstration: https://www.youtube.com/watch?v=a9l6ycWKlHY&t=341s (Edited by Lawrence Hsiung)
+Video Demonstration: https://www.youtube.com/watch?v=a9l6ycWKlHY (Video Edited by Lawrence Hsiung)
 
 This is a class project implementation of a simple calculator performing operations such as add, subtract, multiply, division, cosine, and sine. FSM design simulation conducted on VCS Synopsis and implementation using Intel Quartus Prime on FPGA DE10-Lite. My effort within the project consisted of leading the team meeting, project schedule, and wrote the files uploaded on this repository.
 
